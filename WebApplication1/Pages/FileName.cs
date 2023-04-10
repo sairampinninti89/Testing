@@ -4,5 +4,7 @@
     {
            //By vasantha
         int Count;
+         //Added By Sairam.
+        float temprature;
     }
 }
